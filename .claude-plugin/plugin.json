@@ -1,0 +1,6 @@
+{
+  "name": "model-router",
+  "version": "0.1.0",
+  "description": "Routes simple turns and subagents to cheaper models (Haiku/Sonnet) to save tokens; /route to control it",
+  "license": "MIT"
+}

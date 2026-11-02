@@ -1,0 +1,5 @@
+{
+  "name": "model-router",
+  "owner": { "name": "michaelvallejo4040-hub" },
+  "plugins": [ { "name": "model-router", "source": "./", "description": "Routes simple turns and subagents to cheaper models to save tokens" } ]
+}
